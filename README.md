@@ -1,3 +1,4 @@
-# zadanie_14_5
+# React-contact-and-form-components
 Komponenty “kontakt” i “formularz”
-https://paszak.github.io/zadanie_14_5/
+
+https://paszak.github.io/React-contact-and-form-components/
